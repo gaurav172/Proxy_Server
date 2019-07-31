@@ -1,0 +1,28 @@
+HTTP/1.0 200 OK
+Server: SimpleHTTP/0.6 Python/2.7.15rc1
+Date: Wed, 03 Apr 2019 17:56:01 GMT
+Content-type: text/html; charset=UTF-8
+Content-Length: 586
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 Final//EN"><html>
+<title>Directory listing for /</title>
+<body>
+<h2>Directory listing for /</h2>
+<hr>
+<ul>
+<li><a href=".git/">.git/</a>
+<li><a href="auth.txt">auth.txt</a>
+<li><a href="blacklist.txt">blacklist.txt</a>
+<li><a href="cache/">cache/</a>
+<li><a href="client.py">client.py</a>
+<li><a href="main.py">main.py</a>
+<li><a href="moss">moss</a>
+<li><a href="proxy.py">proxy.py</a>
+<li><a href="s2.py">s2.py</a>
+<li><a href="s3.py">s3.py</a>
+<li><a href="s5.py">s5.py</a>
+<li><a href="server.py">server.py</a>
+</ul>
+<hr>
+</body>
+</html>
